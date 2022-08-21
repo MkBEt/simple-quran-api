@@ -1,16 +1,6 @@
----
-permalink: /index.html
----
-
-# simple-quran-api
-
-## Support
-
-[![Buy Me A Coffee](assets/img/buymeacoffee.png)](https://www.buymeacoffee.com/HEazcCDFS)
-
 ## Description
 
-A simple Quran API with GET endpoints by chapter/verse and with 43 translations
+A simple Quran API with GET endpoints by chapter/verse
 
 ## Demo
 
